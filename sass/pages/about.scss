@@ -1,0 +1,27 @@
+@import "../base/variables";
+@import "../components/header";
+@import "../components/footer";
+@import "../base/layout";
+
+.text-box {
+  max-width: 60%;
+  min-width: 300px;
+}
+
+.image-box {
+  height: 200px;
+  width: 200px;
+  border-radius: 0px;
+}
+
+.image-1 {
+  background-image: url("../../img/images-about/coming-soon.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.image-2 {
+  background-image: url("../../img/images-about/jessy.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}

@@ -1,0 +1,14 @@
+@import "../base/variables";
+@import "../components/header";
+@import "../components/footer";
+@import "../base/layout";
+
+.image {
+  display: flex;
+  margin-right: 10px;
+  background-size: cover;
+  height: 400px;
+  width: 500px;
+  background-position: center;
+  border-radius: 40px;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "02-sassproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0",
+    "sass": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danitasheva/sass-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danitasheva/sass-project/issues"
+  },
+  "homepage": "https://github.com/danitasheva/sass-project#readme",
+  "description": ""
+}

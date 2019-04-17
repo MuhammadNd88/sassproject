@@ -1,0 +1,13 @@
+//components
+@import "./components/cards.scss";
+@import "./components/footer.scss";
+@import "./components/header.scss";
+
+//Pages
+@import "./pages/about.scss";
+@import "./pages/blog.scss";
+
+// base
+@import "./base/layout.scss";
+@import "./base/mixins.scss";
+@import "./base/variables.scss";
